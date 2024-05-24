@@ -41,6 +41,7 @@ public class StroreEndPoints {
 	public void login(){
 
 	System.out.println("login method from git user after merge conflict");
+		System.out.println("login conflict retest");
 	}
 
 }
