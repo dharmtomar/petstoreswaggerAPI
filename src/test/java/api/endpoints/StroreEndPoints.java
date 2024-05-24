@@ -38,4 +38,7 @@ public class StroreEndPoints {
 		return response;
 		
 	}
+	public void login(){
+	System.out.println("login method from git user");
+	}
 }
